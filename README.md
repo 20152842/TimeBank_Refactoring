@@ -18,8 +18,7 @@
   - 매니저 페이지 계좌 관리 기능
     |기능 미 동작시|기능 동작 시|
     |:-:|:-:|
-    |![image](https://github.com/20152842/TimeBank_Refactoring/assets/66324867/224c4f05-3c5e-4fbf-9bd5-6103c0ca8f81)
-|![image](https://github.com/20152842/TimeBank_Refactoring/assets/66324867/ef93e05d-bfaf-4eac-a085-d00c74eb3755)|
+    |![image](https://github.com/20152842/TimeBank_Refactoring/assets/66324867/224c4f05-3c5e-4fbf-9bd5-6103c0ca8f81)|![image](https://github.com/20152842/TimeBank_Refactoring/assets/66324867/ef93e05d-bfaf-4eac-a085-d00c74eb3755)|
    - 다양한 검색 기능
     |계좌 번호|생년월일|이름|번호|
     |:-:|:-:|:-:|:-:|
