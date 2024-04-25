@@ -9,9 +9,13 @@
 
   
 ## 수정 사항 과정
- - Kotlin to Java
  - Pay앱 식별 API
  - 매니저 페이지 동작
+  - 매니저 페이지 로그인
+    |로그인 실패 시|로그인 성공 시|
+    |:-:|:-:|
+    |![image](https://github.com/20152842/TimeBank_Refactoring/assets/66324867/0d3bf1dc-363d-4911-8108-ddf7b42a472f)|![image](https://github.com/20152842/TimeBank_Refactoring/assets/66324867/88824392-6796-47f1-84be-7bb0c5166938)|
+  - 매니저 페이지 계좌 관리 기
 
 ---------------------
 
