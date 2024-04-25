@@ -10,6 +10,10 @@
   
 ## 수정 사항 과정
  - Pay앱 식별 API
+   - Pay 앱 식별 Key 등록 예시
+     |Pay 앱 Key 생성|DB 저장|
+     |:-:|:-:|
+     |![image](https://github.com/20152842/TimeBank_Refactoring/assets/66324867/c2f51ee1-a9f3-4fbc-9442-dbcff89faeb1)|![image](https://github.com/20152842/TimeBank_Refactoring/assets/66324867/330e906a-ff62-499b-aec5-f5a73f20aa25)|
  - 매니저 페이지 동작
    - 매니저 페이지 로그인
      |로그인 실패 시|로그인 성공 시|
