@@ -22,6 +22,7 @@
    - 다양한 검색 기능
     |계좌 번호|생년월일|이름|번호|
     |:-:|:-:|:-:|:-:|
+
     |![image](https://github.com/20152842/TimeBank_Refactoring/assets/66324867/469ff627-acb0-4034-b115-6f4bb616c244)|![image](https://github.com/20152842/TimeBank_Refactoring/assets/66324867/e6d0a19b-7019-4a3b-8f01-4c2a423aa351)|![image](https://github.com/20152842/TimeBank_Refactoring/assets/66324867/93d103c5-a5ef-470d-a24e-eba5e75154fd)|![image]https://github.com/20152842/TimeBank_Refactoring/assets/66324867/4238e942-ad94-4a9a-ac88-c2e06133e6ff).|
 
 
